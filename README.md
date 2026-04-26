@@ -216,7 +216,7 @@ You should see the 6 main tables + `AuditLog` and the 3 views.
 
 ## 👤 Author
 
-**[Your Full Name]**
+**Jad George Farah**
 *Second-year HND Cybersecurity student*
 Pearson BTEC HND — Unit 4: Database Design and Development
 Submission: May 2026
