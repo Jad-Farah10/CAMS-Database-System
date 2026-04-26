@@ -1,0 +1,48 @@
+# =====================================================
+# CAMS — .gitignore
+# =====================================================
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# MySQL Workbench
+*.mwb.bak
+*.mwbd
+
+# Logs
+*.log
+logs/
+
+# Backup files
+*.bak
+*.backup
+*.dump
+*.sql.bak
+
+# Environment files (NEVER commit secrets)
+.env
+.env.local
+config.local.*
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Personal notes
+notes.txt
+TODO.txt
+
+# Compiled / Generated
+*.pyc
+__pycache__/
+node_modules/
